@@ -1,2 +1,1 @@
-# guide
-Agile-Networking Guide
+# Agile-Networking Guide
