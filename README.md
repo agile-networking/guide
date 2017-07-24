@@ -21,3 +21,5 @@
 8. **NetOps is Service to Cross-Fuctional Teams**
 9. **Agile, DevOps, NetOps and How They Come Together**
 10. **The Network is An Appication Revisited: Achieving The Agile Networking Vision**
+
+
