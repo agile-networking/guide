@@ -18,7 +18,6 @@
   * Software is Eating the Network
   * Communication, Collaboration, Teamwork and Mission Focus are Critical
   * Keep Committing to the Journey of Bringing Together Agile, DevOps and NetOps
-  * Teamwork is key
 8. **NetOps is Service to Cross-Fuctional Teams**
 9. **Agile, DevOps, NetOps and How They Come Together**
 10. **The Network is An Appication Revisited: Achieving The Agile Networking Vision**
